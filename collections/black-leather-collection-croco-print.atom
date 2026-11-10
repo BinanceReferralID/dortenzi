@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.dortenzi.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.dortenzi.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.dortenzi.com/collections/black-leather-collection-croco-print.atom"/>
+  <title>D’Ortenzi</title>
+  <updated>2025-10-16T21:35:43+03:00</updated>
+  <author>
+    <name>D’Ortenzi</name>
+  </author>
+  <entry>
+    <id>https://www.dortenzi.com/products/10292767031632</id>
+    <published>2025-10-16T21:35:43+03:00</published>
+    <updated>2025-10-16T21:35:43+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dortenzi.com/products/black-leather-croco-print-long-shoes"/>
+    <title>Black leather croco print long Shoes</title>
+    <s:type></s:type>
+    <s:vendor>D’Ortenzi</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0912/4865/6720/files/91DB6663-75A1-49BD-988B-9F3B0C4B283C.jpg?v=1760639546"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>D’Ortenzi<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            790.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>RO:<span>Cu un design inspirat din spiritul western și rafinate prin meșteșug italian, ciocatele înalte D’Ortenzi din piele naturală croco neagră sunt expresia perfectă a luxului atemporal. Textura exotică, linia alungită și tocul elegant definesc o piesă statement pentru femeia care apreciază calitatea, independența și stilul sofisticat.</span></p>
+<p><span>Sunt mai mult decât o pereche de încălțăminte – sunt o declarație de încredere și forță feminină.</span></p>
+<p> </p>
+<p><span>EN: </span><span>Handcrafted in Italy from genuine black croco-textured leather, the D’Ortenzi high ankle boots reinterpret the western heritage through the lens of modern luxury. The elongated silhouette, subtle heel, and refined craftsmanship embody effortless sophistication and bold femininity.</span></p>
+<p><span>Designed for women who lead with confidence and style, these boots are a statement of strength and timeless elegance.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.dortenzi.com/products/10292767031632</id>
+      <title>35</title>
+      <s:price currency="RON">790.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dortenzi.com/products/10292767031632</id>
+      <title>36</title>
+      <s:price currency="RON">790.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dortenzi.com/products/10292767031632</id>
+      <title>37</title>
+      <s:price currency="RON">790.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dortenzi.com/products/10292767031632</id>
+      <title>38</title>
+      <s:price currency="RON">790.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dortenzi.com/products/10292767031632</id>
+      <title>39</title>
+      <s:price currency="RON">790.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dortenzi.com/products/10292767031632</id>
+      <title>40</title>
+      <s:price currency="RON">790.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dortenzi.com/products/10292767031632</id>
+      <title>41</title>
+      <s:price currency="RON">790.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.dortenzi.com/products/10292750811472</id>
+    <published>2025-10-16T21:30:05+03:00</published>
+    <updated>2025-10-16T21:30:05+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dortenzi.com/products/black-leather-crico-print-short-shoes"/>
+    <title>Black leather croco print short Shoes</title>
+    <s:type></s:type>
+    <s:vendor>D’Ortenzi</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0912/4865/6720/files/883E820B-75B4-4DBE-9051-2254ED489D10.jpg?v=1760639148"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>D’Ortenzi<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            690.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>RO:<span>Realizate din piele naturală cu textură croco, ciocatele D’Ortenzi îmbină spiritul liber al stilului western cu precizia și rafinamentul designului italian. Silueta lor structurată, tocul robust și finisajul premium le transformă într-o piesă statement – perfectă pentru femeia care îndrăznește să combine tradiția cu modernul.</span></p>
+<p><span>Fie că le porți într-o ținută urban-chic sau ca accent luxury într-un look minimalist, aceste ciocate emană atitudine, calitate și încredere.</span></p>
+<p> </p>
+<p><span>EN: </span><span>Crafted from genuine black croco-textured leather, the D’Ortenzi ankle boots merge the bold energy of western style with the precision of Italian craftsmanship. Their structured silhouette, stable heel, and premium finish make them a powerful statement of elegance and individuality.</span></p>
+<p><span>Perfect for women who embrace both tradition and modern edge, these boots elevate any outfit with confidence and sophistication.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.dortenzi.com/products/10292750811472</id>
+      <title>35</title>
+      <s:price currency="RON">690.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dortenzi.com/products/10292750811472</id>
+      <title>36</title>
+      <s:price currency="RON">690.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dortenzi.com/products/10292750811472</id>
+      <title>37</title>
+      <s:price currency="RON">690.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dortenzi.com/products/10292750811472</id>
+      <title>38</title>
+      <s:price currency="RON">690.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dortenzi.com/products/10292750811472</id>
+      <title>39</title>
+      <s:price currency="RON">690.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dortenzi.com/products/10292750811472</id>
+      <title>40</title>
+      <s:price currency="RON">690.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dortenzi.com/products/10292750811472</id>
+      <title>41</title>
+      <s:price currency="RON">690.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.dortenzi.com/products/10292682752336</id>
+    <published>2025-10-16T21:24:01+03:00</published>
+    <updated>2025-10-16T21:24:01+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dortenzi.com/products/black-bamboo-croco-leather-bag"/>
+    <title>Black Bamboo croco leather Bag</title>
+    <s:type></s:type>
+    <s:vendor>D’Ortenzi</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0912/4865/6720/files/E203644C-7C07-4F10-8BA0-CF5F3CC53C0D.jpg?v=1760638509"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>D’Ortenzi<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            890.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>RO: <span>Geanta Black Bamboo Croco Leather redefinește conceptul de eleganță clasică printr-un design ce îmbină luxul discret cu elemente naturale autentice. Realizată din piele premium cu textură exotică și completată de mânere sculptate din bambus, această piesă aduce un contrast perfect între forță și delicatețe.</span></p>
+<p><span>Ideală pentru femeia modernă care apreciază calitatea, tradiția și stilul inconfundabil, geanta D’Ortenzi devine mai mult decât un accesoriu – este o declarație de rafinament și încredere.</span></p>
+<p><span>*<em>Dimensiuni: 24 cm lungime, 18 cm inaltime, 11 cm adancime*</em></span></p>
+<p><span>EN: </span><span>The Black Bamboo Croco handbag embodies the essence of refined luxury, blending classic craftsmanship with contemporary flair. Crafted from premium textured leather and featuring genuine bamboo handles, this statement piece stands as a symbol of strength, grace, and authenticity.</span></p>
+<p><span>Designed for the modern woman who values tradition, quality, and distinction, the D’Ortenzi bag transforms every outfit into a moment of understated elegance.</span></p>
+<p><span><em>*Dimensions: 24 cm length, 18 cm height, 11 cm depth*</em><br></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.dortenzi.com/products/10292682752336</id>
+      <title>Default Title</title>
+      <s:price currency="RON">890.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.dortenzi.com/products/10292635042128</id>
+    <published>2025-10-16T21:14:27+03:00</published>
+    <updated>2025-10-16T21:14:27+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dortenzi.com/products/untitled-oct16_21-07"/>
+    <title>Black Leather croco print Bag</title>
+    <s:type></s:type>
+    <s:vendor>D’Ortenzi</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0912/4865/6720/files/45C3F8D7-04B8-4BDF-8846-6A7C2D194887.jpg?v=1760638058"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>D’Ortenzi<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            990.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>RO: <span>Geantă D’Ortenzi din piele naturală croco – eleganță și rafinament absolut.</span></p>
+<p><span>Această geantă sofisticată, realizată din piele naturală cu textură croco, reprezintă expresia perfectă a luxului contemporan. Designul său impunător, completat de detalii fine metalice, adaugă un aer de exclusivitate fiecărei ținute.</span></p>
+<p><span>Spațioasă și versatilă, este ideală atât pentru întâlniri de afaceri, cât și pentru evenimente elegante. Fiecare cusătură este o dovadă a măiestriei artizanale, oferind durabilitate și stil atemporal.</span></p>
+<p><em>*<span class="s1">Dimensiuni: </span><span class="s2">32 cm lungime, 22 cm înălțime, 15 cm adâncime*</span></em></p>
+<p><span>EN: D'ortenzi </span><span>Croco Leather Bag – elegance redefined.</span></p>
+<p><span>Crafted from premium crocodile-embossed leather, this luxurious handbag embodies timeless sophistication and modern glamour. The structured silhouette, enhanced by fine gold-tone hardware, makes it the perfect statement piece for both business and elegant occasions.</span></p>
+<p><span>Spacious yet refined, it combines exceptional craftsmanship with contemporary design, ensuring style that endures through time.<br><br></span></p>
+<p><em>*Dimensiona: <span class="s2">32 cm length, 22 cm height, 15 cm depth* </span></em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.dortenzi.com/products/10292635042128</id>
+      <title>Default Title</title>
+      <s:price currency="RON">990.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

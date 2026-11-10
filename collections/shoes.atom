@@ -1,0 +1,500 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.dortenzi.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.dortenzi.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.dortenzi.com/collections/shoes.atom"/>
+  <title>D’Ortenzi</title>
+  <updated>2025-10-18T17:34:24+03:00</updated>
+  <author>
+    <name>D’Ortenzi</name>
+  </author>
+  <entry>
+    <id>https://www.dortenzi.com/products/10294624289104</id>
+    <published>2025-10-18T17:34:24+03:00</published>
+    <updated>2025-10-18T17:34:24+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dortenzi.com/products/shoe"/>
+    <title>Suede Espresso Leather casual Shoes</title>
+    <s:type></s:type>
+    <s:vendor>D’Ortenzi</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0912/4865/6720/files/2B9B2603-4765-49A9-82DC-BF0D9F33A58B.jpg?v=1760798053"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>D’Ortenzi<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            690.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>RO:<span>Realizați din piele întoarsă premium, adidașii D’Ortenzi definesc o nouă perspectivă asupra eleganței casual. Silueta curată, platforma modernă și textura fină creează un echilibru perfect între rafinament și funcționalitate.</span></p>
+<p><span>Acești adidași nu sunt doar o alegere stilistică, ci o declarație a bunului gust – dedicați celor care apreciază calitatea italiană și estetica discretă, dar puternică.</span></p>
+<p><span>EN: Crafted </span><span>from premium Italian suede, the D’Ortenzi sneakers redefine understated elegance. With a sleek silhouette, elevated sole, and refined texture, they offer a perfect fusion of modern design and luxurious comfort.</span></p>
+<p><span>More than footwear, they’re a statement of taste – designed for those who value quality, simplicity, and the sophistication of effortless style</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.dortenzi.com/products/10294624289104</id>
+      <title>35</title>
+      <s:price currency="RON">690.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dortenzi.com/products/10294624289104</id>
+      <title>36</title>
+      <s:price currency="RON">690.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dortenzi.com/products/10294624289104</id>
+      <title>37</title>
+      <s:price currency="RON">690.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dortenzi.com/products/10294624289104</id>
+      <title>38</title>
+      <s:price currency="RON">690.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dortenzi.com/products/10294624289104</id>
+      <title>39</title>
+      <s:price currency="RON">690.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dortenzi.com/products/10294624289104</id>
+      <title>40</title>
+      <s:price currency="RON">690.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dortenzi.com/products/10294624289104</id>
+      <title>41</title>
+      <s:price currency="RON">690.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.dortenzi.com/products/10292769423696</id>
+    <published>2025-10-16T21:42:25+03:00</published>
+    <updated>2025-10-16T21:42:25+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dortenzi.com/products/suede-leather-casual-shoes"/>
+    <title>Suede Cappuccino leather casual Shoes</title>
+    <s:type></s:type>
+    <s:vendor>D’Ortenzi</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0912/4865/6720/files/94C34665-09C0-4455-B29F-946C1F98C8E6.jpg?v=1760639781"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>D’Ortenzi<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            690.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>RO:<span>Realizați din piele întoarsă premium, adidașii D’Ortenzi definesc o nouă perspectivă asupra eleganței casual. Silueta curată, platforma modernă și textura fină creează un echilibru perfect între rafinament și funcționalitate.</span></p>
+<p><span>Acești adidași nu sunt doar o alegere stilistică, ci o declarație a bunului gust – dedicați celor care apreciază calitatea italiană și estetica discretă, dar puternică.</span></p>
+<p> </p>
+<p><span>EN: Crafted </span><span>from premium Italian suede, the D’Ortenzi sneakers redefine understated elegance. With a sleek silhouette, elevated sole, and refined texture, they offer a perfect fusion of modern design and luxurious comfort.</span></p>
+<p><span>More than footwear, they’re a statement of taste – designed for those who value quality, simplicity, and the sophistication of effortless style</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.dortenzi.com/products/10292769423696</id>
+      <title>35</title>
+      <s:price currency="RON">690.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dortenzi.com/products/10292769423696</id>
+      <title>36</title>
+      <s:price currency="RON">690.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dortenzi.com/products/10292769423696</id>
+      <title>37</title>
+      <s:price currency="RON">690.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dortenzi.com/products/10292769423696</id>
+      <title>38</title>
+      <s:price currency="RON">690.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dortenzi.com/products/10292769423696</id>
+      <title>39</title>
+      <s:price currency="RON">690.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dortenzi.com/products/10292769423696</id>
+      <title>40</title>
+      <s:price currency="RON">690.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dortenzi.com/products/10292769423696</id>
+      <title>41</title>
+      <s:price currency="RON">690.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.dortenzi.com/products/10292767031632</id>
+    <published>2025-10-16T21:35:43+03:00</published>
+    <updated>2025-10-16T21:35:43+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dortenzi.com/products/black-leather-croco-print-long-shoes"/>
+    <title>Black leather croco print long Shoes</title>
+    <s:type></s:type>
+    <s:vendor>D’Ortenzi</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0912/4865/6720/files/91DB6663-75A1-49BD-988B-9F3B0C4B283C.jpg?v=1760639546"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>D’Ortenzi<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            790.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>RO:<span>Cu un design inspirat din spiritul western și rafinate prin meșteșug italian, ciocatele înalte D’Ortenzi din piele naturală croco neagră sunt expresia perfectă a luxului atemporal. Textura exotică, linia alungită și tocul elegant definesc o piesă statement pentru femeia care apreciază calitatea, independența și stilul sofisticat.</span></p>
+<p><span>Sunt mai mult decât o pereche de încălțăminte – sunt o declarație de încredere și forță feminină.</span></p>
+<p> </p>
+<p><span>EN: </span><span>Handcrafted in Italy from genuine black croco-textured leather, the D’Ortenzi high ankle boots reinterpret the western heritage through the lens of modern luxury. The elongated silhouette, subtle heel, and refined craftsmanship embody effortless sophistication and bold femininity.</span></p>
+<p><span>Designed for women who lead with confidence and style, these boots are a statement of strength and timeless elegance.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.dortenzi.com/products/10292767031632</id>
+      <title>35</title>
+      <s:price currency="RON">790.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dortenzi.com/products/10292767031632</id>
+      <title>36</title>
+      <s:price currency="RON">790.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dortenzi.com/products/10292767031632</id>
+      <title>37</title>
+      <s:price currency="RON">790.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dortenzi.com/products/10292767031632</id>
+      <title>38</title>
+      <s:price currency="RON">790.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dortenzi.com/products/10292767031632</id>
+      <title>39</title>
+      <s:price currency="RON">790.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dortenzi.com/products/10292767031632</id>
+      <title>40</title>
+      <s:price currency="RON">790.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dortenzi.com/products/10292767031632</id>
+      <title>41</title>
+      <s:price currency="RON">790.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.dortenzi.com/products/10292750811472</id>
+    <published>2025-10-16T21:30:05+03:00</published>
+    <updated>2025-10-16T21:30:05+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dortenzi.com/products/black-leather-crico-print-short-shoes"/>
+    <title>Black leather croco print short Shoes</title>
+    <s:type></s:type>
+    <s:vendor>D’Ortenzi</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0912/4865/6720/files/883E820B-75B4-4DBE-9051-2254ED489D10.jpg?v=1760639148"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>D’Ortenzi<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            690.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>RO:<span>Realizate din piele naturală cu textură croco, ciocatele D’Ortenzi îmbină spiritul liber al stilului western cu precizia și rafinamentul designului italian. Silueta lor structurată, tocul robust și finisajul premium le transformă într-o piesă statement – perfectă pentru femeia care îndrăznește să combine tradiția cu modernul.</span></p>
+<p><span>Fie că le porți într-o ținută urban-chic sau ca accent luxury într-un look minimalist, aceste ciocate emană atitudine, calitate și încredere.</span></p>
+<p> </p>
+<p><span>EN: </span><span>Crafted from genuine black croco-textured leather, the D’Ortenzi ankle boots merge the bold energy of western style with the precision of Italian craftsmanship. Their structured silhouette, stable heel, and premium finish make them a powerful statement of elegance and individuality.</span></p>
+<p><span>Perfect for women who embrace both tradition and modern edge, these boots elevate any outfit with confidence and sophistication.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.dortenzi.com/products/10292750811472</id>
+      <title>35</title>
+      <s:price currency="RON">690.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dortenzi.com/products/10292750811472</id>
+      <title>36</title>
+      <s:price currency="RON">690.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dortenzi.com/products/10292750811472</id>
+      <title>37</title>
+      <s:price currency="RON">690.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dortenzi.com/products/10292750811472</id>
+      <title>38</title>
+      <s:price currency="RON">690.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dortenzi.com/products/10292750811472</id>
+      <title>39</title>
+      <s:price currency="RON">690.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dortenzi.com/products/10292750811472</id>
+      <title>40</title>
+      <s:price currency="RON">690.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dortenzi.com/products/10292750811472</id>
+      <title>41</title>
+      <s:price currency="RON">690.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.dortenzi.com/products/10288626237776</id>
+    <published>2025-10-12T22:16:14+03:00</published>
+    <updated>2025-10-12T22:16:14+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dortenzi.com/products/ash-python-boots"/>
+    <title>Ash Python Lock Shoes</title>
+    <s:type></s:type>
+    <s:vendor>D’Ortenzi</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0912/4865/6720/files/WhatsAppImage2025-10-12at21.45.36_2.jpg?v=1760296604"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>D’Ortenzi<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            790.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong data-start="588" data-end="608">Ash Python Shoes </strong></p>
+<p><span>RO:Îndrăzneți și sofisticați, ciocatele Ash Python sunt realizați manual din piele veritabilă de piton, într-o nuanță subtilă de gri-cenușiu care evidențiază modelul natural al pielii exotice. Cu linii precise și o formă puternică, acești bocanci îmbină măiestria artizanală cu un aer contemporan. Un design exclusiv, creat pentru cei care caută luxul cu atitudine.</span></p>
+<p> </p>
+<p><strong data-start="588" data-end="608">Ash Python Shoes </strong></p>
+<p>EN:Striking and sophisticated, the Ash Python Shoes are handcrafted from genuine python leather in a soft, ash-toned palette that highlights the natural pattern of the exotic skin. With sharp lines and a bold shape, these boots merge artisanal craftsmanship with contemporary flair. An exclusive design made for those who seek luxury with attitude.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.dortenzi.com/products/10288626237776</id>
+      <title>35</title>
+      <s:price currency="RON">790.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dortenzi.com/products/10288626237776</id>
+      <title>36</title>
+      <s:price currency="RON">790.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dortenzi.com/products/10288626237776</id>
+      <title>37</title>
+      <s:price currency="RON">790.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dortenzi.com/products/10288626237776</id>
+      <title>38</title>
+      <s:price currency="RON">790.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dortenzi.com/products/10288626237776</id>
+      <title>39</title>
+      <s:price currency="RON">790.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dortenzi.com/products/10288626237776</id>
+      <title>40</title>
+      <s:price currency="RON">790.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dortenzi.com/products/10288626237776</id>
+      <title>41</title>
+      <s:price currency="RON">790.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.dortenzi.com/products/10288625910096</id>
+    <published>2025-10-12T22:12:27+03:00</published>
+    <updated>2025-10-12T22:12:27+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dortenzi.com/products/black-pony-lock-shoes"/>
+    <title>Black Pony Lock Shoes</title>
+    <s:type></s:type>
+    <s:vendor>D’Ortenzi</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0912/4865/6720/files/WhatsAppImage2025-10-12at21.45.35_1.jpg?v=1760296291"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>D’Ortenzi<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            790.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong data-start="165" data-end="185">Black Pony Lock Shoes</strong></p>
+<p><span>RO: Rafinați și îndrăzneți fără efort, pantofii Black Pony Lock sunt confecționați din piele luxoasă de ponei, oferind o textură catifelată și un luciu natural elegant. Silueta lor sculpturală se inspiră din stilul clasic vestic, reinterpretat cu o notă modernă și rafinată. Destinați celor care apreciază eleganța atemporală cu un twist contemporan, acest model exclusiv reprezintă esența luxului discret.</span></p>
+<p><strong data-start="165" data-end="185">Black Pony Lock Shoes</strong><br data-start="185" data-end="188">EN: Elevated and effortlessly bold, the Black Pony Lock Shoes are crafted from luxurious pony hair leather, offering a sleek, velvety texture with a rich, natural sheen. Their sculptural silhouette draws inspiration from classic Western styles, reimagined with a refined edge. Designed for those who value timeless elegance with a modern twist, this exclusive pair is the epitome of understated luxury.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.dortenzi.com/products/10288625910096</id>
+      <title>35</title>
+      <s:price currency="RON">790.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dortenzi.com/products/10288625910096</id>
+      <title>36</title>
+      <s:price currency="RON">790.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dortenzi.com/products/10288625910096</id>
+      <title>37</title>
+      <s:price currency="RON">790.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dortenzi.com/products/10288625910096</id>
+      <title>38</title>
+      <s:price currency="RON">790.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dortenzi.com/products/10288625910096</id>
+      <title>39</title>
+      <s:price currency="RON">790.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dortenzi.com/products/10288625910096</id>
+      <title>40</title>
+      <s:price currency="RON">790.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dortenzi.com/products/10288625910096</id>
+      <title>41</title>
+      <s:price currency="RON">790.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

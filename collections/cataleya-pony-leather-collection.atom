@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.dortenzi.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.dortenzi.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.dortenzi.com/collections/cataleya-pony-leather-collection.atom"/>
+  <title>D’Ortenzi</title>
+  <updated>2025-11-22T13:54:57+02:00</updated>
+  <author>
+    <name>D’Ortenzi</name>
+  </author>
+  <entry>
+    <id>https://www.dortenzi.com/products/10333905092944</id>
+    <published>2025-11-22T13:54:57+02:00</published>
+    <updated>2025-11-22T13:54:57+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dortenzi.com/products/leopard-muse-pony-bag"/>
+    <title>Leopard Muse Pony Bag</title>
+    <s:type></s:type>
+    <s:vendor>D’Ortenzi</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0912/4865/6720/files/585F371E-F69D-4ACD-BBC9-AD2EAF62065D.jpg?v=1763812287"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>D’Ortenzi<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            990.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>RO: Modelul este realizat din piele de ponei cu imprimeu leopard, o textură moale și densă care oferă genții un aspect distinct. Silueta este structurată, cu două mânere ferme și cusături curate. Geanta poate fi purtată atât ca accesoriu de zi, cât și la ținute mai elaborate, iar portofelul asortat completează setul într-un mod firesc.</span></p>
+<p> </p>
+<p><span></span><span>EN: This model is crafted from pony leather with a leopard print, featuring a soft, dense texture that gives the bag a distinctive presence. Its silhouette is structured, with two sturdy handles and clean stitching. The bag works well for daytime outfits and more polished looks, while the matching wallet completes the set naturally.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.dortenzi.com/products/10333905092944</id>
+      <title>Animal print</title>
+      <s:price currency="RON">990.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.dortenzi.com/products/10288625025360</id>
+    <published>2025-10-12T22:07:12+03:00</published>
+    <updated>2025-10-12T22:07:12+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dortenzi.com/products/blue-animal-print-pony"/>
+    <title>Blue Animal Print Pony</title>
+    <s:type></s:type>
+    <s:vendor>D’Ortenzi</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0912/4865/6720/files/WhatsAppImage2025-10-12at21.45.37_1.jpg?v=1760295979"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>D’Ortenzi<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            990.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> </p>
+<p><strong data-start="960" data-end="986">RO: Blue Animal Print Pony</strong></p>
+<p>Vibrantă și sofisticată, geanta Blue Animal Print Pony este realizată din piele de ponei de înaltă calitate, cu un imprimeu animalier într-o nuanță intensă de albastru, care adaugă o notă îndrăzneață luxului clasic. Structura sa fermă, interiorul din piele fină și accesoriile metalice rafinate o transformă într-o piesă statement — perfectă pentru cei care își exprimă stilul printr-o estetică puternică și artistică.</p>
+<p class="p1"><span class="s1"> *<em>Dimensiuni: 25</em></span><em><span class="s2"> cm lungime, 20 cm înălțime, 12 cm adâncime*</span></em></p>
+<p><strong data-start="960" data-end="986"><br>EN: Blue Animal Print Pony</strong><br data-start="986" data-end="989">Vibrant and chic, the Blue Animal Print Pony bag is crafted from high-quality pony hair leather in a vivid blue animal print that adds a daring twist to classic luxury. Its sharp structure, smooth leather interior, and refined hardware make it a standout piece — perfect for those who love their style with a bold, artistic edge.</p>
+<p> </p>
+<p><em>*<span class="s1">Dimensions: 25</span><span class="s2"> cm length, 20 cm height, 12 cm depth*</span></em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.dortenzi.com/products/10288625025360</id>
+      <title>Default Title</title>
+      <s:price currency="RON">990.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.dortenzi.com/products/10288620372304</id>
+    <published>2025-10-12T21:51:12+03:00</published>
+    <updated>2025-10-12T21:51:12+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dortenzi.com/products/red-animal-print-pony"/>
+    <title>Red Animal Print Pony</title>
+    <s:type></s:type>
+    <s:vendor>D’Ortenzi</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0912/4865/6720/files/hjbhjnhhh.jpg?v=1767283957"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>D’Ortenzi<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            990.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> </p>
+<p> </p>
+<p><strong>RO:Red Animal Print Pony</strong></p>
+<p>Îndrăzneață și plină de atitudine, geanta Red Animal Print Pony îmbină pielea de ponei premium cu un imprimeu animalier în tonuri vibrante de roșu, pentru un look care emană energie și rafinament. Accentele argintii și măiestria detaliilor pun în valoare textura bogată a pielii, în timp ce forma structurată oferă un aspect elegant și bine definit. Un accesoriu de lux dedicat trendsetter-ului modern.</p>
+<p><strong data-start="588" data-end="613"><span class="s1"><em>*</em></span></strong><span class="s1"><em>Dimensiuni: 25</em></span><em><span class="s2"> cm lungime, 20 cm înălțime, 12 cm adâncime*</span></em></p>
+<p><strong data-start="588" data-end="613"><br>EN: Red Animal Print Pony</strong></p>
+<p><br data-start="613" data-end="616">Unapologetically bold, the Red Animal Print Pony bag fuses premium pony hair leather with a wild, red-toned animal print for a look that’s both edgy and sophisticated. Gold-tone accents and fine craftsmanship enhance its rich texture, while the structured shape offers a polished finish. A luxurious accessory for the modern trendsetter.</p>
+<p><em><span class="s1">*Dimensions: 25</span><span class="s2"> cm length, 20 cm height, 12 cm depth*</span></em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.dortenzi.com/products/10288620372304</id>
+      <title>Default Title</title>
+      <s:price currency="RON">990.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.dortenzi.com/products/10288609132880</id>
+    <published>2025-10-12T21:23:01+03:00</published>
+    <updated>2025-10-12T21:23:01+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dortenzi.com/products/red-zebra-pony"/>
+    <title>Red Zebra Pony</title>
+    <s:type></s:type>
+    <s:vendor>D’Ortenzi</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0912/4865/6720/files/WhatsAppImage2025-10-12at21.45.38_2.jpg?v=1760295818"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>D’Ortenzi<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            990.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>RO: Pony Roșu Zebra</span></p>
+<p><span>Puternică și rafinată, geanta Red Zebra Pony este realizată manual din piele premium de ponei, cu un imprimeu îndrăzneț roșu și negru în dungi de zebră care atrage toate privirile. Silueta sa structurată, accesoriile metalice în ton auriu și detaliile luxoase transformă această piesă impresionantă într-o declarație autentică de eleganță și rafinament. Concepută pentru cei care au curajul să iasă în evidență cu stil.</span></p>
+<p><span><span class="s1"><em>Dimensiuni: 25</em></span><em><span class="s2"> cm lungime, 20 cm înălțime, 12 cm adâncime*</span></em></span></p>
+<p><strong data-start="220" data-end="238">Red Zebra Pony</strong><br data-start="238" data-end="241">Fierce and refined, the Red Zebra Pony bag is handcrafted from premium pony hair leather, featuring a bold red and black zebra print that commands attention. Its structured silhouette, gold-tone hardware, and luxe detailing elevate this striking piece into a statement of true luxury. Designed for those who dare to stand out with elegance.</p>
+<p> <em><span class="s1">Dimensions: 25</span><span class="s2"> cm length, 20 cm height, 12 cm depth*</span></em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.dortenzi.com/products/10288609132880</id>
+      <title>Default Title</title>
+      <s:price currency="RON">990.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

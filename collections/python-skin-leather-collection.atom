@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.dortenzi.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.dortenzi.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.dortenzi.com/collections/python-skin-leather-collection.atom"/>
+  <title>D’Ortenzi</title>
+  <updated>2025-11-23T21:30:36+02:00</updated>
+  <author>
+    <name>D’Ortenzi</name>
+  </author>
+  <entry>
+    <id>https://www.dortenzi.com/products/10335106335056</id>
+    <published>2025-11-23T21:30:36+02:00</published>
+    <updated>2025-11-23T21:30:36+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dortenzi.com/products/black-python-timeless-sandals"/>
+    <title>Black Python Timeless Sandals</title>
+    <s:type></s:type>
+    <s:vendor>D’Ortenzi</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0912/4865/6720/files/03D9F780-2709-4014-B433-FEEEEBCF8A33.jpg?v=1763926251"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>D’Ortenzi<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            799.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> </p>
+<p> </p>
+<p>RO: Sandalele Black Python sunt realizate din piele cu textură de python în finisaj negru lucios, accentuat de un interior roșu intens care creează un contrast elegant. Baretele subțiri și cataramele metalice adaugă precizie și un aer rafinat, iar liniile curate ale siluetei pun în valoare forma piciorului. Tocul înalt menține proporțiile fine și conferă o prezență discretă, potrivită pentru ținute de seară sau evenimente în care detaliile contează. Este un model conceput pentru a livra confort și eleganță în același timp, cu un finisaj luxos ce rămâne observat fără să fie ostentativ.</p>
+<p>EN:The Black Python sandals feature python-textured leather in a polished black finish, paired with a deep red interior that creates a refined contrast. The slim straps and metal buckles give precision and a sophisticated touch, while the clean lines of the silhouette highlight the natural shape of the foot. The high heel maintains balanced proportions and adds a composed presence, ideal for evening looks or occasions where subtle detail elevates the style. This design brings comfort and elegance together, with a luxurious finish that stands out in a quiet, controlled way.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.dortenzi.com/products/10335106335056</id>
+      <title>35</title>
+      <s:price currency="RON">799.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dortenzi.com/products/10335106335056</id>
+      <title>36</title>
+      <s:price currency="RON">799.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dortenzi.com/products/10335106335056</id>
+      <title>37</title>
+      <s:price currency="RON">799.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dortenzi.com/products/10335106335056</id>
+      <title>38</title>
+      <s:price currency="RON">799.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dortenzi.com/products/10335106335056</id>
+      <title>39</title>
+      <s:price currency="RON">799.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dortenzi.com/products/10335106335056</id>
+      <title>40</title>
+      <s:price currency="RON">799.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dortenzi.com/products/10335106335056</id>
+      <title>41</title>
+      <s:price currency="RON">799.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.dortenzi.com/products/10333969449296</id>
+    <published>2025-11-23T21:28:07+02:00</published>
+    <updated>2025-11-23T21:28:07+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dortenzi.com/products/untitled-nov22_16-54"/>
+    <title>Black Python Timeless Bag</title>
+    <s:type></s:type>
+    <s:vendor>D’Ortenzi</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0912/4865/6720/files/33A2E019-73A1-444F-975F-30C0806039C2.jpg?v=1763925417"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>D’Ortenzi<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1200.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Ro:Black Python Timeless Bag pune accent pe rafinament prin pielea cu textură de python în negru lucios, prelucrată cu atenție pentru a păstra un aspect sobru și elegant. Ceasul funcțional integrat în clapetă devine semnătura piesei, un detaliu rar în zona accesoriilor și un concept introdus în premieră în România. Silueta structurată, linia curată și proporțiile echilibrate transformă geanta într-un obiect cu prezență, potrivit pentru momente în care discreția și eleganța contează. Este o piesă care se remarcă prin execuție și prin felul în care combină estetica de lux cu un element tehnic autentic.</p>
+<p>En: The Black Python Timeless Bag brings a refined approach through black python-textured leather with a polished finish, crafted to maintain a clean and understated elegance. Its functional clock, integrated into the front flap, serves as the defining signature of the piece and introduces a concept not seen before in Romania. The structured silhouette, precise lines and balanced proportions give the bag a composed and distinguished presence, ideal for occasions where subtle luxury makes the difference. It stands out through craftsmanship and through the way it blends classic luxury with a genuine technical detail.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.dortenzi.com/products/10333969449296</id>
+      <title>35</title>
+      <s:price currency="RON">1200.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dortenzi.com/products/10333969449296</id>
+      <title>36</title>
+      <s:price currency="RON">1200.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dortenzi.com/products/10333969449296</id>
+      <title>37</title>
+      <s:price currency="RON">1200.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dortenzi.com/products/10333969449296</id>
+      <title>38</title>
+      <s:price currency="RON">1200.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dortenzi.com/products/10333969449296</id>
+      <title>39</title>
+      <s:price currency="RON">1200.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dortenzi.com/products/10333969449296</id>
+      <title>40</title>
+      <s:price currency="RON">1200.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dortenzi.com/products/10333969449296</id>
+      <title>41</title>
+      <s:price currency="RON">1200.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.dortenzi.com/products/10288607035728</id>
+    <published>2025-10-12T21:16:59+03:00</published>
+    <updated>2025-10-12T21:16:59+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dortenzi.com/products/olive-bamboo-python"/>
+    <title>Olive Bamboo Python</title>
+    <s:type></s:type>
+    <s:vendor>D’Ortenzi</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0912/4865/6720/files/WhatsAppImage2025-10-12at21.45.37_4.jpg?v=1760295665"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>D’Ortenzi<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            890.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-start="84" data-end="497"><strong data-start="84" data-end="107">RO: Olive Bamboo Python </strong></p>
+<p><span>Distinctivă și elegantă, geanta Olive Bamboo Python este realizată din piele veritabilă de piton, într-o nuanță intensă de verde măsliniu, care evidențiază textura exotică și modelul natural al pielii. Completată de un mâner inspirat din bambus și un interior luxos din piele naturală, această piesă îmbină perfect culoarea îndrăzneață cu măiestria artizanală atemporală. Ideală pentru cei care caută o declarație unică de rafinament sofisticat.</span></p>
+<p data-start="84" data-end="497"><em>*Dimensiuni: 22 cm lungime, 14 cm inaltime, 7 cm adancime* </em><strong data-start="84" data-end="107"><br></strong></p>
+<p data-start="84" data-end="497"><strong data-start="84" data-end="107">EN: Olive Bamboo Python</strong><br data-start="107" data-end="110">Distinctive and elegant, the Olive Bamboo Python bag is crafted from genuine python skin in a rich olive hue, highlighting the exotic texture and natural pattern. Complemented by a bamboo-inspired handle and a luxurious natural leather interior, this piece seamlessly combines bold color with timeless craftsmanship. Perfect for those who seek a unique statement in sophisticated luxury.</p>
+<p data-start="84" data-end="497">*<em>Dimensions: 22 cm length, 14 cm height, 7 cm depth*</em> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.dortenzi.com/products/10288607035728</id>
+      <title>Default Title</title>
+      <s:price currency="RON">890.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.dortenzi.com/products/10288606904656</id>
+    <published>2025-10-12T21:15:29+03:00</published>
+    <updated>2025-10-12T21:15:29+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dortenzi.com/products/ash-bamboo-python"/>
+    <title>Ash Bamboo Python</title>
+    <s:type></s:type>
+    <s:vendor>D’Ortenzi</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0912/4865/6720/files/WhatsAppImage2025-10-12at21.45.36_1.jpg?v=1760295633"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>D’Ortenzi<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1190.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong data-start="589" data-end="610">Ash Bamboo Python</strong></p>
+<p><span>RO:Discretă, dar captivantă, geanta Ash Bamboo Python este realizată din piele veritabilă de piton, într-o nuanță subtilă de gri-cenușiu, oferind un aspect atemporal și versatil. Îmbogățită cu un mâner elegant, inspirat din bambus, și un interior premium din piele naturală, această geantă combină materiale excepționale cu un design impecabil. Perfectă pentru persoana rafinată care caută opulență discretă și calitate desăvârșită.</span></p>
+<p><em>*Dimensiuni: 25 cm lungime,20 cm latime, 8 cm adancime*</em><strong data-start="589" data-end="610"><br><br>Ash Bamboo Python</strong><br data-start="610" data-end="613">EN: Subtle yet captivating, the Ash Bamboo Python bag features genuine python skin in a muted ash tone, creating a timeless and versatile look. Enhanced by a sleek bamboo-style handle and a premium natural leather interior, this bag blends exquisite materials with impeccable design. Perfect for the discerning individual seeking understated opulence and exceptional quality.</p>
+<p><em>*Dimensions:25 cm length, 20 cm width, 8 cm depth*</em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.dortenzi.com/products/10288606904656</id>
+      <title>Default Title</title>
+      <s:price currency="RON">1190.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.dortenzi.com/products/10288603103568</id>
+    <published>2025-10-12T21:10:29+03:00</published>
+    <updated>2025-10-12T21:10:29+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dortenzi.com/products/nero-bamboo-python"/>
+    <title>Nero Bamboo Python</title>
+    <s:type></s:type>
+    <s:vendor>D’Ortenzi</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0912/4865/6720/files/WhatsAppImage2025-10-12at20.59.21.jpg?v=1760295531"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>D’Ortenzi<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            890.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> </p>
+<p><strong data-start="163" data-end="185">Nero Bamboo Python</strong></p>
+<p><strong data-start="163" data-end="185">RO: </strong><span>Îndrăzneață și sofisticată, geanta Nero Bamboo Python evidențiază farmecul natural al pielii de piton negru, prelucrată cu măiestrie pentru a accentua textura și modelul ei unic. Asociată cu un mâner luxos inspirat din bambus și un interior moale din piele naturală, această piesă îmbină eleganța exotică cu rafinamentul artizanal. O declarație impresionantă pentru cei care apreciază luxul exclusivist și atenția desăvârșită la detalii.</span></p>
+<p><em><br>*Dimensiuni: 22 cm lungime, 14 cm inaltime, 7 cm adancime*<br></em><strong data-start="163" data-end="185"><br>Nero Bamboo Python</strong><br data-start="185" data-end="188">EN: Bold and sophisticated, the Nero Bamboo Python bag showcases the natural allure of black python skin, expertly crafted to emphasize its unique texture and pattern. Paired with a luxurious bamboo-inspired handle and a soft natural leather interior, this piece merges exotic elegance with artisanal craftsmanship. A striking statement for those who appreciate exclusive luxury and refined detail.</p>
+<p class="p1"><em><span class="s1">*Dimensions: </span><span class="s2">32 cm length, 22 cm height, 15 cm depth*</span></em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.dortenzi.com/products/10288603103568</id>
+      <title>Default Title</title>
+      <s:price currency="RON">890.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

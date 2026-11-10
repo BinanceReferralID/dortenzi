@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.dortenzi.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.dortenzi.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.dortenzi.com/collections/frontpage.atom"/>
+  <title>D’Ortenzi</title>
+  <updated>2025-10-12T20:46:42+03:00</updated>
+  <author>
+    <name>D’Ortenzi</name>
+  </author>
+  <entry>
+    <id>https://www.dortenzi.com/products/10288595206480</id>
+    <published>2025-10-12T20:46:42+03:00</published>
+    <updated>2025-10-12T20:46:42+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dortenzi.com/products/cow-print-pony-leather-bag"/>
+    <title>Cow Print Pony Leather Bag</title>
+    <s:type></s:type>
+    <s:vendor>D’Ortenzi</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0912/4865/6720/files/WhatsAppImage2025-10-12at21.29.01.jpg?v=1760295135"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>D’Ortenzi<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1700.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> </p>
+<p><strong data-start="98" data-end="146">Cow Print Pony Leather Bag – Limited Edition</strong></p>
+<p><span>RO:Un amestec îndrăzneț de stil statement și măiestrie rafinată, această geantă în ediție limitată este realizată manual din piele premium de ponei, cu un imprimeu de vacă care atrage toate privirile. Silueta sa structurată este completată de accesorii metalice aurii și detalii lucrate cu meticulozitate, oferind un echilibru perfect între funcționalitate și eleganță. Creată pentru cei care îmbrățișează individualitatea, această piesă rară adaugă o notă de eleganță sălbatică oricărei colecții.</span></p>
+<p><em>*Dimensiuni: 32 cm lungime, 22 inaltime, 15 cm adancime*<br></em><br>Cow<strong data-start="98" data-end="146"> Print Pony Leather Bag – Limited Edition</strong><br data-start="146" data-end="149">EN:A bold blend of statement style and refined craftsmanship, this limited edition bag is handcrafted from premium pony hair leather in an eye-catching cow print. Its structured silhouette is paired with luxe gold-tone hardware and meticulous detailing, making it as functional as it is fashionable. Designed for those who embrace individuality, this rare piece adds a touch of wild elegance to any collection.</p>
+<p>*<em>Dimensions: 32 length, 22 height, 15 cm depth* </em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.dortenzi.com/products/10288595206480</id>
+      <title>Default Title</title>
+      <s:price currency="RON">1700.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.dortenzi.com/products/10288581902672</id>
+    <published>2025-10-12T20:29:22+03:00</published>
+    <updated>2025-10-12T20:29:22+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dortenzi.com/products/red-iris-pony-leather-bag"/>
+    <title>Red Iris Pony Leather Bag</title>
+    <s:type></s:type>
+    <s:vendor>D’Ortenzi</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0912/4865/6720/files/A55D7061-B05F-4AD4-9170-CC4BB7E85FB3.jpg?v=1760799774"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>D’Ortenzi<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1700.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong data-start="144" data-end="191">Red Iris Pony Leather Bag – Limited Edition</strong></p>
+<p>RO<strong data-start="144" data-end="191">: </strong><span>Fă o declarație îndrăzneață cu geanta Red Iris Pony Leather, realizată din piele luxoasă de ponei, cu o textură catifelată și o nuanță intensă de roșu carmin. Cu o siluetă structurată, două mânere superioare și un emblematic ornament fleur-de-lis în ton auriu, această piesă în ediție limitată emană eleganță atemporală cu o notă modernă. Creată pentru cei care apreciază luxul rar și rafinat.</span></p>
+<p><em>Dimensiuni: 32 cm lungime, 22 inaltime, 15 cm adancime</em></p>
+<p><strong data-start="144" data-end="191">Red Iris Pony Leather Bag – Limited Edition</strong><br data-start="191" data-end="194">EN:Make a bold statement with the Red Iris Pony Leather Bag, crafted from rich, velvety pony hair in a striking crimson hue. Featuring a structured silhouette, dual top handles, and a gold-tone fleur-de-lis emblem, this limited edition piece exudes timeless elegance with a modern edge. Designed for those who appreciate rare, refined luxury.</p>
+<p>*<em>Dimensions: 32 length, 22 height, 15 cm depth* </em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.dortenzi.com/products/10288581902672</id>
+      <title>Default Title</title>
+      <s:price currency="RON">1700.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.dortenzi.com/products/10288580231504</id>
+    <published>2025-10-12T20:25:27+03:00</published>
+    <updated>2025-10-12T20:25:27+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dortenzi.com/products/army-pony-leather-bag"/>
+    <title>Army Pony Leather Bag</title>
+    <s:type></s:type>
+    <s:vendor>D’Ortenzi</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0912/4865/6720/files/2961BD97-415D-4A1A-B7E1-3EE8B3856E65.jpg?v=1760298009"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>D’Ortenzi<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1700.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong data-start="126" data-end="167">Limited Edition Army Pony Leather Bag</strong></p>
+<p>RO:O fuziune îndrăzneață de stil și măiestrie, această geantă în ediție limitată este realizată din piele naturală de ponei, cu un imprimeu distinctiv de camuflaj militar. Silueta sa structurată, mânerele superioare și cureaua detașabilă oferă o purtare versatilă, în timp ce accesoriile aurii și eticheta emblematică adaugă un finisaj rafinat. Concepută în cantități exclusive, este o piesă rară, remarcabilă, pentru cei care apreciază luxul elegant și îndrăzneț.</p>
+<p><em>*Dimensiuni: 32 cm lungime, 22 inaltime, 15 cm adancime*</em></p>
+<p><strong data-start="126" data-end="167">Limited Edition Army Pony Leather Bag</strong></p>
+<p>EN:A bold fusion of style and craftsmanship, this limited edition bag is made from genuine pony hair leather in a distinctive army camouflage print. Its structured silhouette, top handles, and detachable strap offer versatile wear, while gold-tone hardware and a signature tag add a refined finish. Designed in exclusive quantities, it's a rare statement piece for those who appreciate elevated, edgy luxury.</p>
+<p>*<em>Dimensions: 32 length, 22 height, 15 cm depth* </em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.dortenzi.com/products/10288580231504</id>
+      <title>Default Title</title>
+      <s:price currency="RON">1700.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.dortenzi.com/products/10287952888144</id>
+    <published>2025-10-11T15:24:56+03:00</published>
+    <updated>2025-10-11T15:24:56+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dortenzi.com/products/black-iris-pony-leather-bag"/>
+    <title>Black Iris Pony Leather Bag</title>
+    <s:type></s:type>
+    <s:vendor>D’Ortenzi</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0912/4865/6720/files/98a87ee4-691e-4744-baf6-ae5c61b206fe.jpg?v=1760185941"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>D’Ortenzi<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1690.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3 data-start="91" data-end="128"><strong data-start="95" data-end="126">Black Iris Pony Leather Bag</strong></h3>
+<p><strong data-start="95" data-end="126">RO</strong>: O declarație de eleganță rafinată, geaca Black Iris este realizată din piele de ponei premium, cu aspect de păr, cu un luciu moale și natural. Structura sa elegantă, accentuată de emblematicul fleur-de-lis auriu, întruchipează luxul discret și stilul atemporal. Concepută pentru femeia modernă care poartă cu ușurință rafinamentul, această piesă în ediție limitată este esența glamourului discret.</p>
+<p><em>*Dimensiuni: 32 cm lungime, 22 inaltime, 15 cm adancime*<br></em></p>
+<p data-start="129" data-end="490">EN:A statement of refined elegance, the <strong data-start="166" data-end="180">Black Iris</strong> is crafted from premium hair-on pony leather with a soft, natural sheen. Its sleek structure, accented by the iconic gold fleur-de-lis, embodies quiet luxury and timeless style. Designed for the modern woman who wears sophistication with ease, this limited edition piece is the essence of understated glamour.</p>
+<p data-start="129" data-end="490">*<em>Dimensions: 32 length, 22 height, 15 cm depth* </em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.dortenzi.com/products/10287952888144</id>
+      <title>Default Title</title>
+      <s:price currency="RON">1690.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.dortenzi.com/products/10269713596752</id>
+    <published>2025-09-26T17:19:03+03:00</published>
+    <updated>2025-09-26T17:19:03+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dortenzi.com/products/geanta"/>
+    <title>Animal print pony leather bag</title>
+    <s:type></s:type>
+    <s:vendor>My Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0912/4865/6720/files/WhatsApp_Image_2025-10-12_at_21.28.27.jpg?v=1760294185"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>My Store<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1700.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Animal print pony leather bag</strong></p>
+<p>RO: Aceasta geanta spectaculoasa este realizata din piele naturala de ponei, cu un imprimeu leopard care aduce un plus de atitudine si sofisticare fiecarei tinute. Textura bogata a pielii, detaliile fine si finisajele impecabile transforma acest accesoriu intr-o declaratie de stil inconfundabila.</p>
+<p>Un must have pentru femeia moderna care apreciaza luxul autentic, calitatea artizanala si un design care nu trece neobservat.</p>
+<p><em>Dimensiuni - 32 cm lungime, 22 cm inaltime, 15 cm adancime</em></p>
+<p>EN: Crafted from genuine pony leather, this statement bag features a luxurious leopard print that exudes confidence and timeless glamour . The rich texture of the leather, paired with meticulous craftsmanship and refined details, make it a true symbol of high-end fashion. With its structured silhouette , double top handlers and detachable shoulder strap, this bag offers both versatility and refined elegance- from boardroom meetings to chic evening events. A must have accesory for the modern woman who values authentic luxury, impeccable craftmanship and a bold yet sophisticated aestethic.</p>
+<p><span>Dimensions – 32 cm length, 22 cm height, 15 cm depth.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.dortenzi.com/products/10269713596752</id>
+      <title>Default Title</title>
+      <s:price currency="RON">1700.00</s:price>
+      <s:sku>1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>
